@@ -94,7 +94,6 @@
     transform-origin: 75% 100%;
     transform: rotate(-34deg);
     border-radius: calc(8 * 1vh) calc(5 * 1vh) calc(2 * 1vh) calc(10 * 1vh);
-    // animation: wing 0.075s infinite alternate ease-in-out;
 }
 
 .wing-left {
